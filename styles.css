@@ -1,0 +1,12 @@
+body{
+    background: rgb(106, 187, 139);
+    height: 1200;
+    width: 1200;
+}
+.div{
+    display: flex;
+    margin: 60px;
+    justify-content:  space-around;
+}
+
+
